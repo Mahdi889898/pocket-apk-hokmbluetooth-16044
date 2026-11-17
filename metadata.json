@@ -1,0 +1,6 @@
+{
+  "name": "حکم بلوتوثی",
+  "description": "بازی کارتی حکم با امکان اتصال گروهی گوشی‌ها از طریق بلوتوث و بازی همراه با ربات‌های هوشمند",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
